@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FormInicio.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="connectionDataBase" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Persist Security Info=False; server=45.56.115.144; database=evoluin_sys; uid=evoluin_sys; pwd=q8ACr0n1LBof</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
