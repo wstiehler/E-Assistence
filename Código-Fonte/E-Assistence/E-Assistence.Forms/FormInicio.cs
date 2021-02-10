@@ -4,12 +4,12 @@ using System.ComponentModel;
 using System.Data;
 using System.Drawing;
 using System.Linq;
-using System.Text;
 using E_Assistence.Data.Context;
+using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace FormInicio
+namespace E_Assistence.Forms
 {
     public partial class FormInicio : Form
     {

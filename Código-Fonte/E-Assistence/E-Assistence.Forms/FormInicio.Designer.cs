@@ -1,4 +1,4 @@
-﻿namespace FormInicio
+﻿namespace E_Assistence.Forms
 {
     partial class FormInicio
     {
